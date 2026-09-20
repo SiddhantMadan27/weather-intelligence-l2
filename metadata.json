@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A responsive weather intelligence application helping users plan their day and week with live Open-Meteo forecasts, 7-day trends, and smart planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
